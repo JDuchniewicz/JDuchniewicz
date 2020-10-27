@@ -5,5 +5,5 @@ My name is Jakub Duchniewicz (although I have many nicknames wherever I go :)). 
 I frequently attend Game Jams where I can unleash my creative self, meet amazing people and chill. Apart from that you can probably meet me at surfing, kitesurfing and windsurfing spots.
 
 - 😄 Pronouns: He/Him
-- 🌱 I’m currently learning Rust and Deep Learning
+- 🌱 I’m currently absorbing arcanas of Rust and Deep Learning
 - 🌐 Come and visit my personal website and blog: www.jduchniewicz.com
