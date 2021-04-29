@@ -1,9 +1,12 @@
 ### Hello there 👋
 
-My name is Jakub Duchniewicz (although I have many nicknames wherever I go :)). I am a programmer, electronics and embedded thingies developer, with some experience with GameDev and Game Engines in particular. I am currently studying Embedded Systems MSc at University of Turku, Finland. I am passionate about optimizations and writing code which is utilizing the underlying hardware at its best. Recently I have been doing some tech-blogging.
+My name is Jakub Duchniewicz (although I have many nicknames wherever I go :)). I am a programmer, electronics and embedded thingies developer, with working experience in GameDev and Game Engines in particular. I am currently studying Embedded Systems MSc at University of Turku, Finland and KTH Royal Academy in Stockholm, Sweden with a minor in Innovation and Enterpreneurship. 
 
-I frequently attend Game Jams where I can unleash my creative self, meet amazing people and chill. Apart from that you can probably meet me at surfing, kitesurfing and windsurfing spots.
+I am passionate about optimizations and writing code which is utilizing the underlying hardware at its best. In my free time I write blog posts about things I am doing - [check them out](https://jduchniewicz.com/posts/)!
+
+I frequently attend Game Jams where I can unleash my creative self, meet amazing people and chill. Apart from that you can meet me at surfing 🏄‍♂️, kitesurfing 🪁 and windsurfing spots 🤙. I also happen to do some skiing both on and off-piste ⛷️
 
 - 😄 Pronouns: He/Him
-- 🌱 I’m currently absorbing arcanas of Rust, Deep Learning and utilizing AI in robotics and health applications
+- 🌱 Right now I am digging deeper into arcanas of Rust, Deep Learning and utilizing AI in robotics and health applications
+- ⚙️ I am working on [BIBoP](https://github.com/JDuchniewicz/BIBoP) - a health-band used for remote patient monitoring and overall health assessment
 - 🌐 Come and visit my personal website and blog: www.jduchniewicz.com
