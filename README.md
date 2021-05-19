@@ -8,5 +8,6 @@ I frequently attend Game Jams where I can unleash my creative self, meet amazing
 
 - 😄 Pronouns: He/Him
 - 🌱 Right now I am digging deeper into arcanas of Rust, Deep Learning and utilizing AI in robotics and health applications
+- 🐕 I am also doing Google Summer of Code with BeagleBoard - a project on accelerating calculations with help of GPGPU and OpenGL ES
 - ⚙️ I am working on [BIBoP](https://github.com/JDuchniewicz/BIBoP) - a health-band used for remote patient monitoring and overall health assessment
 - 🌐 Come and visit my personal website and blog: www.jduchniewicz.com
