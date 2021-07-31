@@ -1,4 +1,4 @@
-### Hello there 👋
+### [Hello there](https://www.youtube.com/watch?v=rEq1Z0bjdwc) 👋
 
 My name is Jakub Duchniewicz (although I have many nicknames wherever I go :)). I am a programmer, electronics and embedded thingies developer, with working experience in GameDev and Game Engines in particular. I am currently studying Embedded Systems MSc at University of Turku, Finland and KTH Royal Academy in Stockholm, Sweden with a minor in Innovation and Enterpreneurship. 
 
