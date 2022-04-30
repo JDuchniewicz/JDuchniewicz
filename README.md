@@ -8,6 +8,7 @@ I frequently attend Game Jams where I can unleash my creative self, meet amazing
 
 - 😄 Pronouns: He/Him
 - 🏢 I am currently working on the deployment of 5G networks (FlexRAN L1 and L2 development) at Tietoevry and making them run fast 🏃
+- 📖 I am also doing my Master's Thesis on the topic of hardware acceleration of packet processing in embedded Linux systems.
 - 🌱 Right now I am digging deeper into arcanas of SystemVerilog, Rust, Deep Learning and utilizing AI in robotics and health applications
 - 🐕 Last summer I finished the Google Summer of Code with BeagleBoard - [a project on accelerating calculations with help of GPGPU and OpenGL ES](https://jduchniewicz.github.io/gsoc2021-blog/)
 - ⚙️ I am working on porting [BIBoP](https://github.com/JDuchniewicz/BIBoP) to [Rust](https://github.com/JDuchniewicz/RustBIBoP) - a health-band used for remote patient monitoring and overall health assessment
