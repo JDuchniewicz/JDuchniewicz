@@ -1,6 +1,6 @@
 ### [Hello there](https://www.youtube.com/watch?v=rEq1Z0bjdwc) 👋
 
-My name is Jakub Duchniewicz (although I have many nicknames wherever I go :)). I am a programmer, electronics and embedded thingies developer, with working experience in GameDev and Game Engines in particular. I am currently working at Tietoevry on 5G networks leading a team of talented engineers. 
+My name is Jakub Duchniewicz (although I have many nicknames wherever I go :)). I am a programmer, electronics and embedded thingies developer, with working experience in GameDev and Game Engines in particular. I am currently working at Tietoevry for **an undisclosed client 😄** on 5G networks leading a team of talented engineers. 
 
 I have just recently graduated with MSc in Embedded Systems at University of Turku, Finland and KTH Royal Academy in Stockholm, Sweden with a minor in Innovation and Enterpreneurship. My thesis was titled *"FPGA accelerated tcpdump with eBPF"* and is available for viewing [here](https://jduchniewicz.com/FPGA-capture.pdf) and the repository is located [here](https://github.com/JDuchniewicz/de0-nano-soc-starter).
 
