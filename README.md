@@ -14,6 +14,6 @@ Apart from that you can meet me at surfing 🏄‍♂️, kitesurfing 🪁 and w
 - 🏢 I am currently working on the deployment of 5G networks (L1 and L2 development) at Tietoevry and making them run fast with the usage of AVX instruction sets 🏃
 - 📖 I am also learning on how to reverse engineer and do teensy-weensy IoT hacking 🤖 
 - 🌱 Right now I am learning about hardware hacking, reverse engineering and embedded Rust. I would love to one day design my personal ASIC for hardware acceleration.
-- 🐕 In 2021 I did the Google Summer of Code with BeagleBoard - [a project on accelerating calculations with help of GPGPU and OpenGL ES](https://jduchniewicz.github.io/gsoc2021-blog/)
+- 🐶 In 2021 I did the Google Summer of Code with BeagleBoard - [a project on accelerating calculations with help of GPGPU and OpenGL ES](https://jduchniewicz.github.io/gsoc2021-blog/)
 - ⚙️ I am working on porting [BIBoP](https://github.com/JDuchniewicz/BIBoP) to [Rust](https://github.com/JDuchniewicz/RustBIBoP) - a health-band used for remote patient monitoring and overall health assessment
 - 🌐 Come and visit my personal website and blog: www.jduchniewicz.com
