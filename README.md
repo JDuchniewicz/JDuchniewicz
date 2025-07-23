@@ -1,19 +1,53 @@
 ### [Hello there](https://www.youtube.com/watch?v=rEq1Z0bjdwc) 👋
 
-My name is Jakub Duchniewicz (although I have many nicknames wherever I go :)). I am a programmer, electronics and embedded thingies developer, with working experience in GameDev and Game Engines in particular. I am currently working at Tietoevry for **an undisclosed client 😄** on 5G networks leading a team of talented engineers. 
+<!-- Banner -->
+<h1 align="center">Jakub Duchniewicz</h1>
+<p align="center">
+  Low-level & embedded engineer • 5G L1 @ Tietoevry • Co-founder @ Sticky Piston Studios
+</p>
 
-I have just recently graduated with MSc in Embedded Systems at University of Turku, Finland and KTH Royal Academy in Stockholm, Sweden with a minor in Innovation and Enterpreneurship. My thesis was titled *"FPGA accelerated tcpdump with eBPF"* and is available for viewing [here](https://jduchniewicz.com/FPGA-capture.pdf) and the repository is located [here](https://github.com/JDuchniewicz/de0-nano-soc-starter).
+<!-- Quick links -->
+<p align="center">
+  <a href="https://jduchniewicz.com">Blog</a> •
+  <a href="https://www.linkedin.com/in/jduchniewicz">LinkedIn</a> •
+  <a href="mailto:jakub@jduchniewicz.com">Email</a>
+</p>
 
-I am passionate about optimizations and writing code which is utilizing the underlying hardware at its best. In my free time I write blog posts about things I am doing - [check them out](https://jduchniewicz.com/posts/)!
+---
 
-I frequently attend Game Jams where I can unleash my creative self meet amazing people and chill. I am a proud co-founder of [Sticky Piston Studios](https://github.com/Sticky-Piston-Studios) where we recently published ["The Deluge"](https://hist0r.itch.io/the-deluge) which won HackYeah 2022 competition. 
+### 🛠️ About me
+- 🌍  Based in Poland (& more often than not on the road)  
+- 💼  Building 5G NR L1 (C/C++ sometimes AVX and other DSPs) with custom ASICs at **Tietoevry**  
+- 🕹️  Co-running **Sticky Piston Studios** – recent title *The Deluge* (HackYeah 2022 winner)  
+- 📝  I blog about embedded programming, hardware hacking, and optimization tips (and travelling!)
 
-Apart from that you can meet me at surfing 🏄‍♂️, kitesurfing 🪁 and windsurfing spots 🤙. I also happen to do some skiing both on and off-piste ⛷️
+### ✨ Highlights
+- [**Hackaday Supercon 2025**](https://github.com/JDuchniewicz/Talks/blob/master/HackadayBerlin2025/hackingFPGA.pdf) - Lightning talk on writing
+- [**Embedded OSS Summit 2024 NA**](https://www.youtube.com/watch?v=qBMhLtfuny4) – ZLED frame using Zephyr talk
+- [**FOSDEM 2024**](https://fosdem.org/2024/schedule/event/fosdem-2024-3128-openran-open-source-the-cool-kids-of-telecom-shaking-up-5g-lte-networks/) – Open RAN & Intel FlexRAN talk 
+- [**Hackaday Supercon 2023**](https://www.youtube.com/watch?v=P-MG6wA_oUg&pp=ygURamFrdWIgZHVjaG5pZXdpY3rSBwkJxwkBhyohjO8%3D) – ML blood-pressure inference on EOS S3 on Zephyr 
+- [**Embedded OSS Summit 2023**](https://www.youtube.com/watch?v=fBMeNOOghD4&feature=youtu.be) – Same as above :grin:
+- [**State of Open Con 2023**](https://jduchniewicz.com/FPGA-capture.pdf) – FPGA-accelerated `tcpdump` for embedded Linux  
+- [**HackYeah 2022**](https://hist0r.itch.io/the-deluge) – 🏆 *The Deluge* won overall competition  
+- [**GSoC 2021 @ beagleboard.org**](https://jduchniewicz.github.io/gsoc2021-blog/) – GPGPU lib for BeagleBone Black  
 
-- 😄 Pronouns: He/Him
-- 🏢 I am currently working on the deployment of 5G networks (L1 and L2 development) at Tietoevry and making them run fast with the usage of AVX instruction sets 🏃
-- 📖 I am also learning on how to reverse engineer and do teensy-weensy IoT hacking 🤖 
-- 🌱 Right now I am learning about hardware hacking, reverse engineering and embedded Rust. I would love to one day design my personal ASIC for hardware acceleration.
-- 🐶 In 2021 I did the Google Summer of Code with BeagleBoard - [a project on accelerating calculations with help of GPGPU and OpenGL ES](https://jduchniewicz.github.io/gsoc2021-blog/)
-- ⚙️ I am working on porting [BIBoP](https://github.com/JDuchniewicz/BIBoP) to [Rust](https://github.com/JDuchniewicz/RustBIBoP) - a health-band used for remote patient monitoring and overall health assessment
-- 🌐 Come and visit my personal website and blog: www.jduchniewicz.com
+### 🚀 Featured projects
+| Project | What it is | Tech |
+|---------|------------|------|
+| [**ZLED Frame**](https://github.com/JDuchniewicz/zled-frame) | Neopixel based house decoration running on Zephyr | Zephyr, FreeCAD, 3D Printing, TCP/IP |
+| [**BIBoP**](https://github.com/JDuchniewicz/BIBoP) | Open hardware health band with ML BP inference | Zephyr, sensor fusion, AWS Lambda |
+| [**Rustalizer**](https://github.com/JDuchniewicz/Rustalizer) | Audio frequency visualizer | Rust, GTK |
+| [**GPGPU with GLES**](https://github.com/JDuchniewicz/GPGPU-with-GLES) | GPGPU library for BeagleBone Black | C, GLSL |
+| [**PolyEngine**](https://github.com/JDuchniewicz/PolyEngine) | Data-oriented C++ game engine | Vulkan, ECS |
+
+
+### 📚 Currently learning
+`embedded-Rust` • ASIC design flows and flaws • efficient networking in game engines • side-channel hardening • reversing odd IoT gadgets
+
+### 🌐 Find me elsewhere
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/jduchniewicz)
+[![Blog](https://img.shields.io/badge/-Blog-black?logo=bloglovin)](https://jduchniewicz.com)
+[![Sponsor](https://img.shields.io/badge/-Buy&nbsp;me&nbsp;a&nbsp;coffee-FFDD00?logo=buy-me-a-coffee)](https://buymeacoffee.com/jduchniewicz)
+
+<!-- GitHub stats (optional) -->
+<!-- ![Jakub's GitHub stats](https://github-readme-stats.vercel.app/api?username=jduchniewicz&show_icons=true) -->
