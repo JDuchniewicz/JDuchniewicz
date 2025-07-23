@@ -22,7 +22,7 @@
 - 📝  I blog about embedded programming, hardware hacking, and optimization tips (and travelling!)
 
 ### ✨ Highlights
-- [**Hackaday Supercon 2025**](https://github.com/JDuchniewicz/Talks/blob/master/HackadayBerlin2025/hackingFPGA.pdf) - Lightning talk on writing
+- [**Hackaday Supercon 2025**](https://github.com/JDuchniewicz/Talks/blob/master/HackadayBerlin2025/hackingFPGA.pdf) - Lightning talk on hacking around IceBreaker FPGAs
 - [**Embedded OSS Summit 2024 NA**](https://www.youtube.com/watch?v=qBMhLtfuny4) – ZLED frame using Zephyr talk
 - [**FOSDEM 2024**](https://fosdem.org/2024/schedule/event/fosdem-2024-3128-openran-open-source-the-cool-kids-of-telecom-shaking-up-5g-lte-networks/) – Open RAN & Intel FlexRAN talk 
 - [**Hackaday Supercon 2023**](https://www.youtube.com/watch?v=P-MG6wA_oUg&pp=ygURamFrdWIgZHVjaG5pZXdpY3rSBwkJxwkBhyohjO8%3D) – ML blood-pressure inference on EOS S3 on Zephyr 
