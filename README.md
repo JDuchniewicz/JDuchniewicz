@@ -18,10 +18,11 @@
 ### 🛠️ About me
 - 🌍  Based in Poland (& more often than not on the road)  
 - 💼  Building 5G NR L1 (C/C++ sometimes AVX and other DSPs) with custom ASICs at **Tietoevry**  
-- 🕹️  Co-running **Sticky Piston Studios** – recent title *The Deluge* (HackYeah 2022 winner)  
+- 🕹️  Co-running **[Sticky Piston Studios](https://stickypistonstudios.com/)** – recent titles: *The Deluge* (HackYeah 2022 winner), *Tiny Trucks* (Slavic Game Jam 2025)
 - 📝  I blog about embedded programming, hardware hacking, and optimization tips (and travelling!)
 
 ### ✨ Highlights
+- [**Slavic Game Jam 2025**](https://hist0r.itch.io/tiny-trucks) - Developing **[PillEngine](https://github.com/MattSzymonski/Pill-Engine)** - adding networking and physics support to create a game about Tiny Trucks
 - [**Hackaday Supercon 2025**](https://github.com/JDuchniewicz/Talks/blob/master/HackadayBerlin2025/hackingFPGA.pdf) - Lightning talk on hacking around IceBreaker FPGAs
 - [**Embedded OSS Summit 2024 NA**](https://www.youtube.com/watch?v=qBMhLtfuny4) – ZLED frame using Zephyr talk
 - [**FOSDEM 2024**](https://fosdem.org/2024/schedule/event/fosdem-2024-3128-openran-open-source-the-cool-kids-of-telecom-shaking-up-5g-lte-networks/) – Open RAN & Intel FlexRAN talk 
@@ -35,14 +36,15 @@
 | Project | What it is | Tech |
 |---------|------------|------|
 | [**ZLED Frame**](https://github.com/JDuchniewicz/zled-frame) | Neopixel based house decoration running on Zephyr | Zephyr, FreeCAD, 3D Printing, TCP/IP |
+| [**FPGA accelerated tcpdump**](https://github.com/JDuchniewicz/fpga-tcpdump) | FPGA accelerated tcpdump with accurate timestamping | FPGA, Verilog, Linux kernel, TCP/IP |
 | [**BIBoP**](https://github.com/JDuchniewicz/BIBoP) | Open hardware health band with ML BP inference | Zephyr, sensor fusion, AWS Lambda |
 | [**Rustalizer**](https://github.com/JDuchniewicz/Rustalizer) | Audio frequency visualizer | Rust, GTK |
 | [**GPGPU with GLES**](https://github.com/JDuchniewicz/GPGPU-with-GLES) | GPGPU library for BeagleBone Black | C, GLSL |
-| [**PolyEngine**](https://github.com/JDuchniewicz/PolyEngine) | Data-oriented C++ game engine | Vulkan, ECS |
+| [**PolyEngine**](https://github.com/JDuchniewicz/PolyEngine) | Data-oriented C++ game engine | C++17, Vulkan, ECS |
 
 
 ### 📚 Currently learning
-`embedded-Rust` • ASIC design flows and flaws • efficient networking in game engines • side-channel hardening • reversing odd IoT gadgets
+`embedded-Rust` • `ASIC design flows and flaws` • `efficient networking in game engines` • `side-channel hardening` • `reversing odd IoT gadgets`
 
 ### 🌐 Find me elsewhere
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/jduchniewicz)
