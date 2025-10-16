@@ -16,7 +16,7 @@
 ---
 
 ### 🛠️ About me
-- 🌍  Based in Poland (& more often than not on the road)  
+- 🌍  Based in Poland and Sydney Australia at the moment 🦘 (& more often than not on the road)  
 - 💼  Building 5G NR L1 (C/C++ sometimes AVX and other DSPs) with custom ASICs at **Tietoevry**  
 - 🕹️  Co-running **[Sticky Piston Studios](https://stickypistonstudios.com/)** – recent titles: *The Deluge* (HackYeah 2022 winner), *Tiny Trucks* (Slavic Game Jam 2025)
 - 📝  I blog about embedded programming, hardware hacking, and optimization tips (and travelling!)
