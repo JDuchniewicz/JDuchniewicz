@@ -3,7 +3,7 @@
 <!-- Banner -->
 <h1 align="center">Jakub Duchniewicz</h1>
 <p align="center">
-  Low-level & embedded engineer • 5G L1 @ Tietoevry • Co-founder @ Sticky Piston Studios
+  Embedded systems engineer • low-level software • Linux / seL4 / 5G / FPGA • Co-founder @ Sticky Piston Studios
 </p>
 
 <!-- Quick links -->
@@ -16,10 +16,11 @@
 ---
 
 ### 🛠️ About me
-- 🌍  Based in Poland and Sydney Australia at the moment 🦘 (& more often than not on the road)  
-- 💼  Building 5G NR L1 (C/C++ sometimes AVX and other DSPs) with custom ASICs at **Tietoevry**  
+- 🌍  Based in Poland and Sydney Australia 🦘 (& more often than not on the road)
+- 💼 Embedded systems engineer working across low-level software, hardware/software integration, performance work, and bring-up
+- 📡 Background in 5G/LTE, Linux, seL4, FPGA- and ASIC-adjacent systems, protocol-layer software, and cross-layer debugging
 - 🕹️  Co-running **[Sticky Piston Studios](https://stickypistonstudios.com/)** – recent titles: *The Deluge* (HackYeah 2022 winner), *Tiny Trucks* (Slavic Game Jam 2025)
-- 📝  I blog about embedded programming, hardware hacking, and optimization tips (and travelling!)
+- 📝 I write about embedded programming, hardware hacking, optimization, and the occasional travel or side-project story
 
 ### ✨ Highlights
 - [**Slavic Game Jam 2025**](https://hist0r.itch.io/tiny-trucks) - Developing **[PillEngine](https://github.com/MattSzymonski/Pill-Engine)** - adding networking and physics support to create a game about Tiny Trucks
@@ -35,6 +36,7 @@
 ### 🚀 Featured projects
 | Project | What it is | Tech |
 |---------|------------|------|
+| [**Pill Engine**](https://github.com/MattSzymonski/Pill-Engine) | In-development blazingly fast game engine with modern rendering pipeline | C++, ECS, networking |
 | [**ZLED Frame**](https://github.com/JDuchniewicz/zled-frame) | Neopixel based house decoration running on Zephyr | Zephyr, FreeCAD, 3D Printing, TCP/IP |
 | [**FPGA accelerated tcpdump**](https://github.com/JDuchniewicz/fpga-tcpdump) | FPGA accelerated tcpdump with accurate timestamping | FPGA, Verilog, Linux kernel, TCP/IP |
 | [**BIBoP**](https://github.com/JDuchniewicz/BIBoP) | Open hardware health band with ML BP inference | Zephyr, sensor fusion, AWS Lambda |
@@ -44,7 +46,7 @@
 
 
 ### 📚 Currently learning
-`embedded-Rust` • `ASIC design flows and flaws` • `efficient networking in game engines` • `side-channel hardening` • `reversing odd IoT gadgets`
+`microkernels` • `ARM/RISC-V/x86 architectural quirks` • `ELF-hacking` • `side-channel hardening` • `reverse engineering odd IoT gadgets`
 
 ### 🌐 Find me elsewhere
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/jduchniewicz)
